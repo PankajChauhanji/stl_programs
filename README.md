@@ -1,4 +1,4 @@
-# C++ Interview Revision Notes
+# C++ Notes
 
 A highly optimized, modern C++ (C++17 / C++20) reference guide and code repository designed for senior backend engineering interview preparation. 
 
