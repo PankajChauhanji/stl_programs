@@ -1,0 +1,82 @@
+# ==========================================
+# C++ Compiled Executables & Binaries
+# ==========================================
+*.exe
+*.out
+*.app
+*.o
+*.obj
+*.so
+*.dylib
+*.dll
+*.a
+*.lib
+
+# ==========================================
+# Precompiled Headers
+# ==========================================
+*.gch
+*.pch
+
+# ==========================================
+# Build & Output Directories
+# ==========================================
+build/
+bin/
+out/
+Debug/
+Release/
+x64/
+x86/
+
+# ==========================================
+# CMake (If you ever use it for larger projects)
+# ==========================================
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+
+# ==========================================
+# IDEs & Code Editors
+# ==========================================
+# VS Code
+.vscode/
+*.code-workspace
+
+# Visual Studio
+.vs/
+*.sln
+*.suo
+*.user
+
+# CLion / IntelliJ
+.idea/
+cmake-build-*/
+
+# Vim / Emacs
+*.swp
+*.swo
+*~
+
+# ==========================================
+# OS Generated Files
+# ==========================================
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# ==========================================
+# Crash Logs & Dumps
+# ==========================================
+*.log
+core
